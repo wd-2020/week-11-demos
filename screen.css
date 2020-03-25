@@ -1,0 +1,21 @@
+
+
+html {
+  color: white;
+  background: black;
+}
+
+h1,
+h2 {
+  color: purple;
+}
+
+h1 {
+  text-transform: lowercase;
+  font-size: 2.25em;
+}
+
+p {
+  width: 50%;
+  max-width: 300px;
+}
